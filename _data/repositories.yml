@@ -1,0 +1,30 @@
+github_users:
+  - didmar
+  - itsupera
+
+github_repos:
+  - didmar/habitsync
+  - didmar/fastapi_ajax_polling
+  - itsupera/onsei
+  - itsupera/onsei-anki
+  - itsupera/furiganalyse
+  - itsupera/audiobook_alignment
+  - didmar/kanjigame-elm
+  - didmar/kanjigame-python
+  - didmar/obsmd2logseq
+  - didmar/snakecorrida
+  - didmar/jamdict-api
+  - didmar/jrl
+  - didmar/ryokou
+  - didmar/crisp-games
+  - didmar/elm-gogui
+  - didmar/gnugo-as-a-service
+  - didmar/imggrabber
+  - didmar/securesocial-ws-sample
+  - didmar/blokus3d-python
+  - itsupera/waadoru
+  - itsupera/kanji-pairs-game
+  - itsupera/furigana
+  - itsupera/youtube_time_tracking
+  - didmar/bulletml-haskell
+  - didmar/bench-theano-gpu

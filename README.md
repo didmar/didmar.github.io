@@ -1,5 +1,5 @@
-Welcome to my personal page !
+# Didier Marin's homepage
 
-If you are learning Japanese, please check out [my latest game](http://kanjigame.didiermarin.com/)
+Made with [Jekyll](https://jekyllrb.com/) using [al-folio](https://github.com/alshedivat/al-folio) template.
 
-More to come :)
+`./bin/dockerhub_run.sh` to run the server locally
