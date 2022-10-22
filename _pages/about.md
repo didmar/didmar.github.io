@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm a Software & Data Engineer with a PhD in AI.
+👋 Hi, I'm a **Software & Data Engineer with a PhD in AI**.
 
-I'm interested in **how software and AI can transform the way we think, work and collaborate** (Tools for Thought, Knowledge Management, Future of programming and OSes, AI alignment...).
+I'm interested in **how technology can transform the way we think, work, collaborate and coordinate** (Tools for Thought, Knowledge Management, Future of programming and OSes, AI alignment...).
 
 My resume is available [here](/assets/pdf/resume.pdf), or see my [LinkedIn](https://www.linkedin.com/in/didier-marin-phd-46862a7a) page for more.
 
@@ -34,7 +34,7 @@ On my spare time, I enjoy coding [side projects](/projects/), reading, [helping 
 
 ## Working together
 
-I'm available as a **freelancer** to help your company with:
+I'm available as a **freelance consultant** to help your company with:
 
 - **Data engineering**:
     - Understand how to use your data to make better decisions
