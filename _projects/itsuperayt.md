@@ -9,7 +9,9 @@ img: assets/img/itsuperayt.png
 
 [Website](https://itsupera.co/)
 
-I create videos on [Youtube](https://www.youtube.com/channel/UC_CxcQbEicRSsQ3eL1_m2zQ) and [Twitch](https://www.twitch.tv/itsupera7) to help people learn Japanese.
+I create videos on [Youtube](https://www.youtube.com/channel/UC_CxcQbEicRSsQ3eL1_m2zQ) and [Twitch](https://www.twitch.tv/itsupera7) to **help people learn Japanese**, under the name "Itsupera".
+
+![](/assets/img/itsuperayt_channel_page.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%; border: solid white 1px;" }
 
 # Problem
 
@@ -19,7 +21,7 @@ More generally, the immersion-based approach I am using is still very under-repr
 
 # Solution
 
-In 2020, I created a [YouTube channel](https://www.youtube.com/channel/UC_CxcQbEicRSsQ3eL1_m2zQ) to give tips on how to learn languages more effectively using immersion, use the best tools available, and keep your motivation as you hit the dreaded ["intermediate plateau"](https://selfstudyenglish.com.tw/2020/12/30/what-is-the-intermediate-plateau-and-how-to-overcome-it/).
+In 2020, I created a [YouTube channel](https://www.youtube.com/channel/UC_CxcQbEicRSsQ3eL1_m2zQ) to give tips on how to learn languages more effectively and keep your motivation as you hit the dreaded ["intermediate plateau"](https://selfstudyenglish.com.tw/2020/12/30/what-is-the-intermediate-plateau-and-how-to-overcome-it/).
 
 This also inspired me to [create](/projects/furiganalyse) [a](/projects/onsei) [few](https://github.com/didmar/kanjigame-elm) [software](https://github.com/itsupera/waadoru) [tools](https://github.com/itsupera/youtube_time_tracking) to help Japanese language learners.
 

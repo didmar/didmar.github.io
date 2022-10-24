@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Hi, I'm a freelance software & data engineer with a PhD in AI.
+# subtitle: Hi, I'm a freelance software & data engineer with a Ph.D. in AI.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-👋 Hi, I'm a **Software & Data Engineer with a PhD in AI**.
+👋 Hi, I'm a **Software & Data Engineer with a Ph.D. in AI**.
 
 I'm interested in **how technology can transform the way we think, work, collaborate and coordinate** (Tools for Thought, Knowledge Management, Future of programming and OSes, AI alignment...).
 
@@ -26,10 +26,10 @@ My resume is available [here](/assets/pdf/resume.pdf), or see my [LinkedIn](http
 
 ## Bio
 
-After a PhD thesis on Reinforcement Learning for robotics, I partnered with former colleagues to create [Heuritech](https://www.heuritech.com).
+After a Ph.D. thesis on Reinforcement Learning for robotics, I partnered with former colleagues to create [Heuritech](https://www.heuritech.com).
 My work involved building scalable data processing pipelines, integrating prediction models and leading software engineering (best practices, continuous integration...).
 
-On my spare time, I enjoy coding [side projects](/projects/), reading, [helping others learn Japanese](https://www.youtube.com/channel/UC_CxcQbEicRSsQ3eL1_m2zQ) and playing jazz drums.
+In my spare time, I enjoy reading, coding [side projects](/projects/), [helping others learn Japanese](/projects/itsuperayt/) and playing jazz drums.
 
 
 ## Working together
