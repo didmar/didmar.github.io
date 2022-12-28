@@ -118,15 +118,15 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: didiermarin # put your disqus shortname
+# disqus_shortname: didiermarin # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
-#   - name: medium.com
-#     rss_url: https://medium.com/@al-folio/feed
+external_sources:
+  - name: didmar.substack.com
+    rss_url: https://didmar.substack.com/feed
 
 # -----------------------------------------------------------------------------
 # Collections
