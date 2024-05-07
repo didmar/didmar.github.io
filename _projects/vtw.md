@@ -2,7 +2,7 @@
 layout: page
 title: Visible Thoughts Writer
 description:
-img: assets/img/vtw_thumbnail_wip.png
+img: assets/img/vtw_thumbnail.png
 importance: 1
 category: work
 ---
@@ -18,7 +18,7 @@ I worked with them to **develop a tool to create datasets collaboratively** for 
 
 The [Visible Thoughts Project](https://intelligence.org/2021/11/29/visible-thoughts-project-and-bounty-announcement/) is an AI-alignment project that attempts at training an AI that could explain its reasoning.
 
-Language models like OpenAI's [GPT-3](https://en.wikipedia.org/wiki/GPT-3) are trained on large datasets of text and can be used to **generate very convincing texts from an initial prompt**.
+Language models like OpenAI's ChatGPT are trained on large datasets of text and can be used to **generate very convincing texts from an initial prompt**.
 For example, it can be used to continue a story, and this was the basis for [AI Dungeon](https://play.aidungeon.io), a text-based role-playing game where the dungeon master is an AI.
 But the **generated text could be offensive or dangerous**. Even if we set up some counter-measures like profanity detection, with the current models we simply can't anticipate all the possible problems.
 
@@ -46,9 +46,11 @@ Under the hood, this is a web app using [React](https://reactjs.org) and [Fireba
 The text editor is built using [SlateJS](https://www.slatejs.org/), a React framework for building rich text editors.
 For the UI, I used [Material UI](https://mui.com/core/), a React component library.
 
-The solution is currently in beta.
-
 # Challenges
+
+I must say that this was my first professional project using React, and I learned a lot (and even more since!).
+That also means that the code is far from perfect, and I would do things differently now.
+For example, I would create more hooks to separate the logic from the components, and maybe use React Query on top of Firebase to manage the data fetching.
 
 The most challenging part was the **rich-text editor**.
 SlateJS is a very powerful framework, but it took me a while to get the exact behavior I wanted.
