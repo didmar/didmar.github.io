@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm interested in **how technology can transform the way we think, work, collaborate and coordinate** (AI, Tools for Thought, Knowledge Management, Future of programming and OSes...).
 
-See my [LinkedIn](https://www.linkedin.com/in/didier-marin-phd-46862a7a) page for a resume.
+See my [LinkedIn](https://www.linkedin.com/in/didier-marin-46862a7a/) page for a resume.
 
 ## Bio
 
