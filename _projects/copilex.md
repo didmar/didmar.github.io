@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copilex
+title: Legal AI assistant
 description:
 img: assets/img/copilex.png
 importance: 1
