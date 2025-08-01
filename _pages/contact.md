@@ -4,7 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-Whether you want to discuss a project, ask a question, or just say hi, feel free to contact me!
+Whether you want to discuss a project, ask a question, or just say hi, feel free to contact me via the form below.
+
+For sensitive matters, use my GPG key:
+- [Download ASCII-armored key](/assets/marin-didier-public.asc)
+- [Download binary key](/assets/marin-didier-public.gpg)
 
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/3c73cadaaeef1bfc4ac746642708b2d5?embedded=1"></div>
 

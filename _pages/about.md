@@ -29,6 +29,6 @@ See my [LinkedIn](https://www.linkedin.com/in/didier-marin-46862a7a/) page for a
 After a Ph.D. thesis on Reinforcement Learning for robotics, I partnered with former colleagues to create [Heuritech](https://www.heuritech.com).
 My work involved building scalable data processing pipelines, integrating prediction models and leading software engineering (best practices, continuous integration...).
 
-Currently, I'm working on building a Legal AI copilot as the CTO of [Gatewai](https://www.gatewai.tech/).
+Currently, I'm working on building a Legal AI copilot as the CTO of [Copilex](https://www.copilex.com/).
 
 In my spare time, I enjoy reading, coding [side projects](/projects/), [helping others learn Japanese](/projects/itsuperayt/) and playing jazz drums.
